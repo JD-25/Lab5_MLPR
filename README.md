@@ -1,5 +1,4 @@
 # Lab5_MLPR
-# Lab 5: Face Detection and Clustering
 
 ## Aim
 To implement face detection using Haar Cascades and use unsupervised learning (K-Means) to cluster faces based on skin tone features (Hue and Saturation).
